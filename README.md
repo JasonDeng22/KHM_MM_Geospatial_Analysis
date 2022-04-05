@@ -1,6 +1,6 @@
 # Cambodia and a bit of Myanmar
 
-Welcome! This is my final project is mainly on Cambodia, but there are a few images on Myanmar. I selected Myanmar as my LMIC, but the country is quite large and my computer was not strong enough to process all the data. I switched to Cambodia after the first project.
+Welcome! My final project is mainly on Cambodia, but there are a few images on Myanmar. I selected Myanmar as my LMIC, but the country is quite large and my computer was not strong enough to process all the data. I switched to Cambodia after the first project.
 
 ## Administrative Subdivisions of Myanmar
 
